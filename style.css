@@ -2,8 +2,8 @@ body {
     background-color: hsl(0, 0%, 98%);
     font-size: 12px;
     font-family: 'Poppins', sans-serif;
-    padding: 50px 40px;
-    line-height: 1.5em;
+    padding: 50px 25px;
+    line-height: 1.8em;
 }
 
 .titulo-entrega {
@@ -25,79 +25,96 @@ body {
     font-size: 13px;
     font-weight: 400;
     color: hsl(229, 6%, 66%);
+    text-align: center;
     padding: 0 0 50px 0;
 }
 
-.caixa-supervisor {
+.caixa {
+    display: flex;
+    flex-direction: column;
     border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
     border-radius: 10px;
-    box-shadow: 10px 0 0 0 hsl(180, 62%, 55%);
+    box-shadow:  5px 5px 20px rgba(0, 0, 0, 0.2); 
+    margin-bottom: 2rem;
+    padding: 0 2em;
+}
+
+.caixa img{
+    align-self: flex-end;
+    padding-bottom: 1em;
+}
+
+.caixa-supervisor {
+    border-top: 5px solid hsl(180, 62%, 55%); 
 }
 
 .titulo-supervisor {
     font-size: 15px;
     color: hsl(234, 12%, 34%); 
     font-weight: 600;
+    padding-left: 20px;
 }
 
 .p-supervisor {
     font-size: 13px;  
     color: hsl(229, 6%, 66%);
     font-weight: 200;
+    padding: 0 20px 0 20px;
 }
 
 .caixa-construtor {
-    border: 2px solid #FFFFFF;
-    border-radius: 10px;
-    border-top-color: hsl(0, 78%, 62%);
+    border-top: 5px solid hsl(0, 78%, 62%);
 }
 
 .titulo-construtor {
     font-size: 15px;
     color: hsl(234, 12%, 34%); 
-    font-weight: 600;    
+    font-weight: 600;  
+    padding-left: 20px;  
 }
 
 .p-construtor {
     font-size: 13px; 
     color: hsl(229, 6%, 66%);
     font-weight: 200;
+    padding: 0 20px 0 20px;
 }
 
 .caixa-carma {
-    border: 2px solid #FFFFFF;
-    border-radius: 10px;
-    border-top-color: hsl(34, 97%, 64%);
+    border-top: 5px solid hsl(34, 97%, 64%);
 }
 
 .titulo-carma {
     font-size: 15px;
     color: hsl(234, 12%, 34%); 
-    font-weight: 600;    
+    font-weight: 600;  
+    padding-left: 20px;  
 }
 
 .p-carma {
     font-size: 13px;   
     color: hsl(229, 6%, 66%);
     font-weight: 200;
+    padding: 0 20px 0 20px;
 }
 
 .caixa-calculadora {
-    border: 2px solid #FFFFFF;
-    border-radius: 10px;
-    border-top-color: hsl(212, 86%, 64%);
+    border-top: 5px solid hsl(212, 86%, 64%);
 }
 
 .titulo-calculadora {
     font-size: 15px;
     color: hsl(234, 12%, 34%); 
-    font-weight: 600;     
+    font-weight: 600;  
+    padding-left: 20px;   
 }
 
 .p-calculadora {
     font-size: 13px;    
     color: hsl(229, 6%, 66%);
     font-weight: 200;
+    padding: 0 20px 0 20px;
 }
 
 footer p {
