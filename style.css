@@ -1,0 +1,110 @@
+body {
+    background-color: hsl(0, 0%, 98%);
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    padding: 50px 40px;
+    line-height: 1.5em;
+}
+
+.titulo-entrega {
+    font-size: 20px;
+    color: hsl(234, 12%, 34%); 
+    text-align: center;
+    font-weight: 200;
+}
+
+.titulo-alimentado {
+    font-size: 20px;
+    color: hsl(234, 12%, 34%); 
+    text-align: center;
+    font-weight: 600; 
+    padding: 0 0 15px 0;
+}
+
+.p-cabecalho {
+    font-size: 13px;
+    font-weight: 400;
+    color: hsl(229, 6%, 66%);
+    padding: 0 0 50px 0;
+}
+
+.caixa-supervisor {
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 10px 0 0 0 hsl(180, 62%, 55%);
+}
+
+.titulo-supervisor {
+    font-size: 15px;
+    color: hsl(234, 12%, 34%); 
+    font-weight: 600;
+}
+
+.p-supervisor {
+    font-size: 13px;  
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+
+.caixa-construtor {
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    border-top-color: hsl(0, 78%, 62%);
+}
+
+.titulo-construtor {
+    font-size: 15px;
+    color: hsl(234, 12%, 34%); 
+    font-weight: 600;    
+}
+
+.p-construtor {
+    font-size: 13px; 
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+
+.caixa-carma {
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    border-top-color: hsl(34, 97%, 64%);
+}
+
+.titulo-carma {
+    font-size: 15px;
+    color: hsl(234, 12%, 34%); 
+    font-weight: 600;    
+}
+
+.p-carma {
+    font-size: 13px;   
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+
+.caixa-calculadora {
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    border-top-color: hsl(212, 86%, 64%);
+}
+
+.titulo-calculadora {
+    font-size: 15px;
+    color: hsl(234, 12%, 34%); 
+    font-weight: 600;     
+}
+
+.p-calculadora {
+    font-size: 13px;    
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+
+footer p {
+    font-size: 9px;
+    text-align: center;
+}
+
+p a {
+    color: hsl(228, 45%, 44%);
+}
