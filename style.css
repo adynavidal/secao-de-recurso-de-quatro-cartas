@@ -125,3 +125,43 @@ footer p {
 p a {
     color: hsl(228, 45%, 44%);
 }
+
+
+/* Tela desktop */
+@media screen and (min-width: 1400px) {
+
+    body {
+        background-color: hsl(0, 0%, 98%);  
+    }
+
+    .cabecalho {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        line-height: 0;
+    }
+
+    .titulo-entrega {
+        font-size: 50px;
+    }
+
+    .titulo-alimentado {
+        font-size: 50px;
+        padding: 0;
+    }
+
+    .p-cabecalho {
+        font-size: 23px;
+        padding: 0 0 60px 0;
+        line-height: 1.5em;
+        position: relative;
+        left: 15%;
+        width: 70%;
+    }
+    
+    .principal {
+        display: flex;
+        flex-direction: row;
+
+    }
+}
