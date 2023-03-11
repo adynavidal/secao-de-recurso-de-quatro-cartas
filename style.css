@@ -141,13 +141,8 @@ p a {
         line-height: 0;
     }
 
-    .titulo-entrega {
+    .titulo-entrega, .titulo-alimentado {
         font-size: 50px;
-    }
-
-    .titulo-alimentado {
-        font-size: 50px;
-        padding: 0;
     }
 
     .p-cabecalho {
@@ -162,5 +157,23 @@ p a {
     .principal {
         display: flex;
         align-items: center;
+        column-gap: 30px;
+        justify-content: center;
+    }
+
+    .caixa {
+        height: 320px;
+        width: 400px;
+    }
+
+    .titulo-geral {
+        font-size: 25px;    
+        padding-top: 20px;
+    }
+
+    .p-geral {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 2em;
     }
 }
