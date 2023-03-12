@@ -40,7 +40,7 @@ body {
     padding: 0 2em;
 }
 
-.caixa img{
+.caixa img {
     align-self: flex-end;
     padding-bottom: 1em;
 }
@@ -49,69 +49,27 @@ body {
     border-top: 5px solid hsl(180, 62%, 55%); 
 }
 
-.titulo-supervisor {
-    font-size: 15px;
-    color: hsl(234, 12%, 34%); 
-    font-weight: 600;
-    padding-left: 20px;
-}
-
-.p-supervisor {
-    font-size: 13px;  
-    color: hsl(229, 6%, 66%);
-    font-weight: 200;
-    padding: 0 20px 0 20px;
-}
-
 .caixa-construtor {
     border-top: 5px solid hsl(0, 78%, 62%);
-}
-
-.titulo-construtor {
-    font-size: 15px;
-    color: hsl(234, 12%, 34%); 
-    font-weight: 600;  
-    padding-left: 20px;  
-}
-
-.p-construtor {
-    font-size: 13px; 
-    color: hsl(229, 6%, 66%);
-    font-weight: 200;
-    padding: 0 20px 0 20px;
 }
 
 .caixa-carma {
     border-top: 5px solid hsl(34, 97%, 64%);
 }
 
-.titulo-carma {
-    font-size: 15px;
-    color: hsl(234, 12%, 34%); 
-    font-weight: 600;  
-    padding-left: 20px;  
-}
-
-.p-carma {
-    font-size: 13px;   
-    color: hsl(229, 6%, 66%);
-    font-weight: 200;
-    padding: 0 20px 0 20px;
-}
-
 .caixa-calculadora {
     border-top: 5px solid hsl(212, 86%, 64%);
 }
 
-.titulo-calculadora {
+.titulo-supervisor, .titulo-construtor, .titulo-carma, .titulo-calculadora {
     font-size: 15px;
     color: hsl(234, 12%, 34%); 
-    font-weight: 600;  
-    padding-left: 20px;   
+    font-weight: 600;
+    padding-left: 20px;
 }
 
-.p-calculadora {
-    font-size: 13px;    
+.p-supervisor, .p-construtor, .p-carma, .p-calculadora {
+    font-size: 13px;  
     color: hsl(229, 6%, 66%);
     font-weight: 200;
     padding: 0 20px 0 20px;
@@ -128,7 +86,7 @@ p a {
 
 
 /* Tela desktop */
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1440px) {
 
     body {
         background-color: hsl(0, 0%, 98%);  
@@ -163,7 +121,7 @@ p a {
 
     .caixa {
         height: 320px;
-        width: 400px;
+        width: 380px;
     }
 
     .titulo-geral {
@@ -175,5 +133,15 @@ p a {
         font-size: 15px;
         font-weight: 400;
         line-height: 2em;
+    }
+
+    .imagem {
+        width: 20%;
+        margin: 20px 20px 0 0; 
+    }
+
+    .rodape {
+        font-size: 12px;
+        margin-top: 60px;
     }
 }
