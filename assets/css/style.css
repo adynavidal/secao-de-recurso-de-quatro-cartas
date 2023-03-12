@@ -86,7 +86,7 @@ p a {
 
 
 /* Tela desktop */
-@media screen and (min-width: 1440px) {
+@media screen and (max-width: 1440px ) and (min-width: 1200px) {
 
     body {
         background-color: hsl(0, 0%, 98%);  
