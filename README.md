@@ -28,11 +28,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![](./prints/capturamobile1.png) 
-![](./prints/capturamobile2.png) 
-![](./prints/capturamobile3.png) 
-![](./prints/capturatela1.png) 
-![](./prints/capturatela2.png) 
+<h1 align="center"> <img alt="PrintDesktop" title="#PrintDesktop" src="./assets/prints/capturatela1.png" /> </h1>
 
 ### Links
 
