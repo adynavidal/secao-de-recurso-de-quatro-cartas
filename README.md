@@ -32,7 +32,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicionar URL da solução aqui](https://github.com/adynaslima/secao-de-recurso-de-quatro-cartas.git)
+- URL da solução: [https://adynaslima.github.io/secao-de-recurso-de-quatro-cartas/]
 
 ## Meu processo
 
