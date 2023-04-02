@@ -28,11 +28,11 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-<h1 align="center"> <img alt="PrintDesktop" title="#PrintDesktop" src="./assets/prints/capturatela1.png" /> </h1>
 
 ### Links
 
-- URL da solução: [https://adynaslima.github.io/secao-de-recurso-de-quatro-cartas/]
+- URL da solução: [GitHub](https://adynaslima.github.io/secao-de-recurso-de-quatro-cartas/)
+- URL do site: [Site]()
 
 ## Meu processo
 
@@ -72,7 +72,7 @@ Preciso me desenvolver mais no Flexbox e no Grid, pois ainda tenho dificuldade n
 ## Autor
 
 - Website - [Adyna Lima](https://github.com/adynaslima)
-- Frontend Mentor - [@adynalima](https://www.frontendmentor.io/profile/adynaslima)
+- LinkedIn - [Adyna Lima](https://www.linkedin.com/in/adynalima/)
 
 ## Licença 
 
