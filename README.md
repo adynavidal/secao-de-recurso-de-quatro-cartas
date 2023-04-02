@@ -1,6 +1,8 @@
-# Solução de seção de recursos de quatro cartões
+# Secao de Recurso de 4 Cartas
+É uma página web, com 4 cards, com o uso de HTML semântico e CSS, com uso de flexbox e layout responsivo. 
+# Frontend Mentor - solução de seção de recursos de quatro cartões
 
-Esta é uma solução para o [desafio da seção de recursos de quatro cartas no Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). 
+Esta é uma solução para o [desafio da seção de recursos de quatro cartas no Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
 ## Índice
 
@@ -14,7 +16,7 @@ Esta é uma solução para o [desafio da seção de recursos de quatro cartas no
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
   - [Recursos úteis](#recursos-úteis)
 - [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
+- [Lincença](#licença)
 
 ## Visão geral
 
@@ -26,13 +28,11 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![](./prints/printdesktop.png) 
-![](./prints/printmobile.png) 
+<h1 align="center"> <img alt="PrintDesktop" title="#PrintDesktop" src="./assets/prints/capturatela1.png" /> </h1>
 
 ### Links
 
-- URL da solução: [GitHub](https://github.com/adynaslima/secao-de-recurso-de-quatro-cartas.git)
-- URL do site: [Site](https://secao-de-recurso-de-quatro-cartas.vercel.app/)
+- URL da solução: [https://adynaslima.github.io/secao-de-recurso-de-quatro-cartas/]
 
 ## Meu processo
 
@@ -71,9 +71,9 @@ Preciso me desenvolver mais no Flexbox e no Grid, pois ainda tenho dificuldade n
 
 ## Autor
 
-- GitHub - [Adyna Lima](https://github.com/adynaslima)
-- LinkedIn - [@adynalima](https://www.linkedin.com/in/adynalima/)
+- Website - [Adyna Lima](https://github.com/adynaslima)
+- Frontend Mentor - [@adynalima](https://www.frontendmentor.io/profile/adynaslima)
 
-## Agradecimentos
+## Licença 
 
-Quero agradecer ao Jorge William Fischdick e a Edilane Silva que me ajudaram nesse projeto, seja tirando dúvidas, seja implementando o código. Meu muito obrigada a vocês!  
+Este projeto está sob a licença. 
