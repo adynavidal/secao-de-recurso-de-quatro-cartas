@@ -1,6 +1,6 @@
-# Frontend Mentor - solução de seção de recursos de quatro cartões
+# Solução de seção de recursos de quatro cartões
 
-Esta é uma solução para o [desafio da seção de recursos de quatro cartas no Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o [desafio da seção de recursos de quatro cartas no Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). 
 
 ## Índice
 
@@ -26,15 +26,13 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![](./prints/capturamobile1.png) 
-![](./prints/capturamobile2.png) 
-![](./prints/capturamobile3.png) 
-![](./prints/capturatela1.png) 
-![](./prints/capturatela2.png) 
+![](./prints/printdesktop.png) 
+![](./prints/printmobile.png) 
 
 ### Links
 
-- URL da solução: [Adicionar URL da solução aqui](https://github.com/adynaslima/secao-de-recurso-de-quatro-cartas.git)
+- URL da solução: [GitHub](https://github.com/adynaslima/secao-de-recurso-de-quatro-cartas.git)
+- URL do site: [Site](https://secao-de-recurso-de-quatro-cartas.vercel.app/)
 
 ## Meu processo
 
@@ -73,8 +71,8 @@ Preciso me desenvolver mais no Flexbox e no Grid, pois ainda tenho dificuldade n
 
 ## Autor
 
-- Website - [Adyna Lima](https://github.com/adynaslima)
-- Frontend Mentor - [@adynalima](https://www.frontendmentor.io/profile/adynaslima)
+- GitHub - [Adyna Lima](https://github.com/adynaslima)
+- LinkedIn - [@adynalima](https://www.linkedin.com/in/adynalima/)
 
 ## Agradecimentos
 
