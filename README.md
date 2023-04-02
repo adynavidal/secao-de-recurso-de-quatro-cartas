@@ -32,7 +32,6 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: [GitHub](https://adynaslima.github.io/secao-de-recurso-de-quatro-cartas/)
-- URL do site: [Site]()
 
 ## Meu processo
 
